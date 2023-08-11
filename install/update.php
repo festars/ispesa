@@ -23,7 +23,7 @@
         </div>
 
         <div class="span12">
-            <h4> PHPNuxBill Updater </h4>
+            <h4> ispesa Updater </h4>
             <pre><?php
             include '../config.php';
             try{

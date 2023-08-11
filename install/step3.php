@@ -22,7 +22,7 @@
 		</div>
 
 		<div class="span12">
-			<h4> PHPNuxBill  Installer </h4>
+			<h4> ispesa  Installer </h4>
 			<?php
 			if (isset($_GET['_error']) && ($_GET['_error']) == '1') {
 				echo '<h4 style="color: red;"> Unable to Connect Database, Please make sure database info is correct and try again ! </h4>';

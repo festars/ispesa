@@ -24,7 +24,7 @@
         <!--  contents area start  -->
         <div class="row">
             <div class="col-md-12">
-                <h4> PHPNuxBill Installer </h4>
+                <h4> ispesa Installer </h4>
                 <h5>Please Read Before Continue</h5>
                 <p><strong>Informasi Aplikasi</strong><br>
                     Application Name: PHPNuxBill <br>
